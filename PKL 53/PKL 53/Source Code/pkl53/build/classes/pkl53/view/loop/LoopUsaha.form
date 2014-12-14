@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <NonVisualComponents>
+    <Component class="pkl53.model.tambahan.B3r15PekerjaTambahan" name="b3r15PekerjaTambahan1">
+      <BindingProperties>
+        <BindingProperty name="b3r15a" source="B3R15a1" sourcePath="${text}" target="b3r15PekerjaTambahan1" targetPath="b3r15a" updateStrategy="0" immediately="false"/>
+        <BindingProperty name="b3r15b" source="B3R15b1" sourcePath="${text}" target="b3r15PekerjaTambahan1" targetPath="b3r15b" updateStrategy="0" immediately="false"/>
+        <BindingProperty name="b3r15c" source="B3R15c1" sourcePath="${text}" target="b3r15PekerjaTambahan1" targetPath="b3r15c" updateStrategy="0" immediately="false"/>
+        <BindingProperty name="b3r15d" source="B3R15d1" sourcePath="${text}" target="b3r15PekerjaTambahan1" targetPath="b3r15d" updateStrategy="0" immediately="false"/>
+        <BindingProperty name="b3r15e" source="B3R15e1" sourcePath="${text}" target="b3r15PekerjaTambahan1" targetPath="b3r15e" updateStrategy="0" immediately="false"/>
+        <BindingProperty name="b3r15f" source="B3R15f1" sourcePath="${text}" target="b3r15PekerjaTambahan1" targetPath="b3r15f" updateStrategy="0" immediately="false"/>
+        <BindingProperty name="b3r15g" source="B3R15g1" sourcePath="${text}" target="b3r15PekerjaTambahan1" targetPath="b3r15g" updateStrategy="0" immediately="false"/>
+        <BindingProperty name="b3r15h" source="B3R15h1" sourcePath="${text}" target="b3r15PekerjaTambahan1" targetPath="b3r15h" updateStrategy="0" immediately="false"/>
+        <BindingProperty name="b3r15i" source="B3R15i1" sourcePath="${text}" target="b3r15PekerjaTambahan1" targetPath="b3r15i" updateStrategy="0" immediately="false"/>
+        <BindingProperty name="b3r15j" source="B3R15j1" sourcePath="${text}" target="b3r15PekerjaTambahan1" targetPath="b3r15j" updateStrategy="0" immediately="false"/>
+        <BindingProperty name="b3r15k" source="B3R15k1" sourcePath="${text}" target="b3r15PekerjaTambahan1" targetPath="b3r15k" updateStrategy="0" immediately="false"/>
+      </BindingProperties>
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+      <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+        <LineBorder/>
+      </Border>
+    </Property>
+    <Property name="opaque" type="boolean" value="false"/>
+  </Properties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="loopPanel" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="3" max="-2" attributes="0"/>
+              <Component id="loopPanel" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="3" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="loopPanel">
+      <Properties>
+        <Property name="opaque" type="boolean" value="false"/>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="B3R15a1" min="-2" pref="30" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                  <Component id="B3R15b1" min="-2" pref="207" max="-2" attributes="0"/>
+                  <EmptySpace pref="42" max="32767" attributes="0"/>
+                  <Component id="B3R15c1" min="-2" pref="50" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="B3R15d1" min="-2" pref="50" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="B3R15e1" min="-2" pref="30" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+                  <Component id="B3R15f1" min="-2" pref="30" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                  <Component id="B3R15g1" min="-2" pref="40" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+                  <Component id="B3R15h1" min="-2" pref="40" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+                  <Component id="B3R15i1" min="-2" pref="30" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="B3R15j1" min="-2" pref="30" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="B3R15k1" min="-2" pref="139" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="151" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="B3R15a1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="B3R15b1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="B3R15j1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="B3R15k1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="B3R15i1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="B3R15h1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="B3R15g1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="B3R15f1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="B3R15e1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="B3R15d1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="B3R15c1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="pkl53.component.Textfield" name="B3R15a1">
+          <Properties>
+            <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+              <ComponentRef name="loopPanel"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="pkl53.component.Textfield" name="B3R15b1">
+          <Properties>
+            <Property name="charType" type="char" value="2"/>
+            <Property name="length" type="int" value="30"/>
+            <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+              <ComponentRef name="loopPanel"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="pkl53.component.Textfield" name="B3R15c1">
+          <Properties>
+            <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+              <ComponentRef name="loopPanel"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="pkl53.component.Textfield" name="B3R15d1">
+          <Properties>
+            <Property name="length" type="int" value="2"/>
+            <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+              <ComponentRef name="loopPanel"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="pkl53.component.Textfield" name="B3R15e1">
+          <Properties>
+            <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+              <ComponentRef name="loopPanel"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="pkl53.component.Textfield" name="B3R15f1">
+          <Properties>
+            <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+              <ComponentRef name="loopPanel"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="pkl53.component.Textfield" name="B3R15g1">
+          <Properties>
+            <Property name="length" type="int" value="2"/>
+            <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+              <ComponentRef name="loopPanel"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="pkl53.component.Textfield" name="B3R15h1">
+          <Properties>
+            <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+              <ComponentRef name="loopPanel"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="pkl53.component.Textfield" name="B3R15i1">
+          <Properties>
+            <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+              <ComponentRef name="loopPanel"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="pkl53.component.Textfield" name="B3R15j1">
+          <Properties>
+            <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+              <ComponentRef name="loopPanel"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="pkl53.component.Textfield" name="B3R15k1">
+          <Properties>
+            <Property name="length" type="int" value="9"/>
+            <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+              <ComponentRef name="loopPanel"/>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

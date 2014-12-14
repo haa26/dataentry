@@ -1,0 +1,43 @@
+//Templates code transaction
+
+
+//pastikan import Class sprt di bawah ini sudah ada
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+import pkl51.database.DatabaseUtility;
+
+
+//copy code di bawah ini ke dalam method yang akan mengimplement method DAO interface
+
+        PreparedStatement statement = null;
+        try {
+            connection = DatabaseUtility.getConnection();
+            connection.setAutoCommit(false);
+            statement = connection.prepareStatement();
+
+            //tulis codenya disini
+
+            connection.commit();
+
+        } catch (SQLException ex) {
+            try {
+                connection.rollback();
+            } catch (SQLException ex1) {
+                System.out.println(ex1.getMessage());
+            }
+            System.out.println(ex.getMessage());
+        } finally {
+            try {
+                connection.setAutoCommit(true);
+            } catch (SQLException ex) {
+                System.out.println(ex.getMessage());
+            }
+            if (statement != null) {
+                try {
+                    statement.close();
+                } catch (SQLException ex) {
+                    System.out.println(ex.getMessage());
+                }
+            }
+        }

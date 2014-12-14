@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.9" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <NonVisualComponents>
+    <Component class="pkl53.component.Textfield" name="textfield1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="textfield1"/>
+      </Properties>
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+    </Property>
+  </Properties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="blokPekerja7891" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="blokPekerja7891" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="pkl53.imageClass.BlokPekerja789" name="blokPekerja7891">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[1070, 1762]"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Component id="jLayeredPane" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Component id="jLayeredPane" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JLayeredPane" name="jLayeredPane">
+          <Properties>
+            <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[1070, 1762]"/>
+            </Property>
+          </Properties>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+            <Property name="useNullLayout" type="boolean" value="false"/>
+          </Layout>
+          <SubComponents>
+            <Component class="pkl53.component.Textfield" name="B7R1">
+              <Properties>
+                <Property name="charType" type="char" value="2"/>
+                <Property name="length" type="int" value="30"/>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blokPekerja7891"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B7R2"/>
+                </Property>
+                <Property name="textfieldKhusus" type="boolean" value="true"/>
+              </Properties>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="10"/>
+              </AuxValues>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="190" y="110" width="330" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B7R2">
+              <Properties>
+                <Property name="length" type="int" value="2"/>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blokPekerja7891"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B7R3"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="470" y="180" width="50" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B7R3">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blokPekerja7891"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B7R4"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="480" y="260" width="40" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B7R4">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blokPekerja7891"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B7R5"/>
+                </Property>
+                <Property name="textfieldKhusus" type="boolean" value="true"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="950" y="120" width="40" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B7R5">
+              <Properties>
+                <Property name="length" type="int" value="2"/>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blokPekerja7891"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B8R1"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="950" y="280" width="40" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B8R1">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blokPekerja7891"/>
+                </Property>
+                <Property name="textNew" type="java.lang.String" value="&lt;Not Set&gt;"/>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B8R2"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="490" y="420" width="30" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B8R2">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blokPekerja7891"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B8R3"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="490" y="560" width="30" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B8R3">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blokPekerja7891"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B8R4"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="490" y="680" width="30" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B8R4">
+              <Properties>
+                <Property name="length" type="int" value="4"/>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blokPekerja7891"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B8R5a"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="460" y="780" width="60" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B8R5a">
+              <Properties>
+                <Property name="length" type="int" value="2"/>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blokPekerja7891"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B8R5b"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="490" y="860" width="40" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B8R5b">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blokPekerja7891"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B8R6"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="490" y="1070" width="40" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B8R6">
+              <Properties>
+                <Property name="length" type="int" value="2"/>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blokPekerja7891"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B8R7a"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="490" y="1150" width="40" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B8R7a">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blokPekerja7891"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B8R7b"/>
+                </Property>
+                <Property name="textfieldKhusus" type="boolean" value="true"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="960" y="420" width="30" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B8R7b">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blokPekerja7891"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B8R8"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="960" y="510" width="30" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B8R8">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blokPekerja7891"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B8R9"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="960" y="630" width="30" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B8R9">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blokPekerja7891"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B8R10a"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="960" y="790" width="30" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B8R10a">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blokPekerja7891"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B8R10b"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="B8R10aActionPerformed"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="980" y="970" width="30" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B8R10b">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blokPekerja7891"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B8R10c"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="980" y="1010" width="30" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B8R10c">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blokPekerja7891"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B8R10d"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="980" y="1040" width="30" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B8R10d">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blokPekerja7891"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B8R10e"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="980" y="1080" width="30" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B8R10e">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blokPekerja7891"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B8R10f"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="980" y="1110" width="30" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B8R10f">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blokPekerja7891"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B8R10g"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="980" y="1140" width="30" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B8R10g">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blokPekerja7891"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B8R10h"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="980" y="1180" width="30" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B8R10h">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blokPekerja7891"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B8R10i"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="980" y="1220" width="30" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B8R10i">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blokPekerja7891"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B8R10j"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="980" y="1250" width="30" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B8R10j">
+              <Properties>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blokPekerja7891"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="980" y="1280" width="30" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

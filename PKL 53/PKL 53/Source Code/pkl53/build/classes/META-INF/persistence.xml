@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+  <persistence-unit name="pkl53PU" transaction-type="RESOURCE_LOCAL">
+    <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+    <class>pkl53.model.B1Keterangantempat</class>
+    <class>pkl53.model.B1Tempat</class>
+    <class>pkl53.model.B2Art</class>
+    <class>pkl53.model.B2Umumusaha</class>
+    <class>pkl53.model.B3Rinciusaha</class>
+    <class>pkl53.model.B3r15Pekerja</class>
+    <class>pkl53.model.B4Art</class>
+    <class>pkl53.model.B4Keteranganumumtenagakerja</class>
+    <class>pkl53.model.B5Keteranganumumtenagakerjainformal</class>
+    <class>pkl53.model.B6Keteranganumumpekerjaaninformalutama</class>
+    <class>pkl53.model.B7KepalaArt</class>
+    <class>pkl53.model.B8Keteranganperumahandanaset</class>
+    <class>pkl53.model.Kabupatenkota</class>
+    <class>pkl53.model.Kecamatan</class>
+    <class>pkl53.model.Kelurahan</class>
+    <class>pkl53.model.KetKuesioner</class>
+    <class>pkl53.model.KetRt</class>
+    <class>pkl53.model.KetRtanggota</class>
+    <class>pkl53.model.Kortimpencacah</class>
+    <class>pkl53.model.Mahasiswa</class>
+    <class>pkl53.model.NoBs</class>
+    <class>pkl53.model.OpsiB3R34R35</class>
+    <class>pkl53.model.OpsiB3r10</class>
+    <class>pkl53.model.OpsiB3r13b</class>
+    <class>pkl53.model.OpsiB3r15e</class>
+    <class>pkl53.model.OpsiB3r15f</class>
+    <class>pkl53.model.OpsiB3r15i</class>
+    <class>pkl53.model.OpsiB3r15j</class>
+    <class>pkl53.model.OpsiB3r21</class>
+    <class>pkl53.model.OpsiB3r22b</class>
+    <class>pkl53.model.OpsiB3r22d</class>
+    <class>pkl53.model.OpsiB3r22f</class>
+    <class>pkl53.model.OpsiB3r23a</class>
+    <class>pkl53.model.OpsiB3r26</class>
+    <class>pkl53.model.OpsiB3r36</class>
+    <class>pkl53.model.OpsiB3r5</class>
+    <class>pkl53.model.OpsiB3r6</class>
+    <class>pkl53.model.OpsiB4r18</class>
+    <class>pkl53.model.OpsiB4r3</class>
+    <class>pkl53.model.OpsiB4r7</class>
+    <class>pkl53.model.OpsiB4r8</class>
+    <class>pkl53.model.OpsiB5r11</class>
+    <class>pkl53.model.OpsiB5r13</class>
+    <class>pkl53.model.OpsiB5r5</class>
+    <class>pkl53.model.OpsiB5r9</class>
+    <class>pkl53.model.OpsiB6r12a</class>
+    <class>pkl53.model.OpsiB6r16</class>
+    <class>pkl53.model.OpsiB6r17</class>
+    <class>pkl53.model.OpsiB6r18</class>
+    <class>pkl53.model.OpsiB6r22a</class>
+    <class>pkl53.model.OpsiB6r3</class>
+    <class>pkl53.model.OpsiB6r6utamaLain</class>
+    <class>pkl53.model.OpsiB7r3</class>
+    <class>pkl53.model.OpsiB7r4</class>
+    <class>pkl53.model.OpsiB8r1</class>
+    <class>pkl53.model.OpsiB8r2</class>
+    <class>pkl53.model.OpsiB8r3</class>
+    <class>pkl53.model.OpsiB8r5a</class>
+    <class>pkl53.model.OpsiB8r5b</class>
+    <class>pkl53.model.OpsiB8r6</class>
+    <class>pkl53.model.OpsiB8r7a</class>
+    <class>pkl53.model.OpsiB8r7b</class>
+    <class>pkl53.model.OpsiB8r8</class>
+    <class>pkl53.model.OpsiB8r9</class>
+    <class>pkl53.model.OpsiJeniskelamin</class>
+    <class>pkl53.model.OpsiListingB4r16</class>
+    <class>pkl53.model.OpsiRincianLapUsaha</class>
+    <class>pkl53.model.OpsiYaDalamprosesTidakTidaktahu</class>
+    <class>pkl53.model.OpsiYaTidak</class>
+    <class>pkl53.model.OpsiYaTidakTidaktau</class>
+    <class>pkl53.model.Petugasentri</class>
+    <class>pkl53.model.OpsiB3r19</class>
+    <class>pkl53.model.Coba</class>
+    <class>pkl53.model.OpsiB1r4</class>
+    <class>pkl53.model.OpsiB6r6utamalain_1</class>
+    <class>pkl53.controller.OpsiB6r6utamalain</class>
+    <class>pkl53.model.OpsiB6r6utamalain</class>
+    <properties>
+      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/pkl?zeroDateTimeBehavior=convertToNull"/>
+      <property name="javax.persistence.jdbc.password" value=""/>
+      <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
+      <property name="javax.persistence.jdbc.user" value="root"/>
+    </properties>
+  </persistence-unit>
+  <persistence-unit name="pkl53pass" transaction-type="RESOURCE_LOCAL">
+    <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+    <class>pkl53.model.Password</class>
+    <properties>
+      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/pkl53?zeroDateTimeBehavior=convertToNull"/>
+      <property name="javax.persistence.jdbc.user" value="root"/>
+      <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
+      <property name="javax.persistence.jdbc.password" value=""/>
+      <property name="javax.persistence.schema-generation.database.action" value="create"/>
+    </properties>
+  </persistence-unit>
+</persistence>

@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.9" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <NonVisualComponents>
+    <Component class="pkl53.model.tambahan.Blok56BTamabahan" name="blok56BTamabahan">
+      <BindingProperties>
+        <BindingProperty name="b6r11" source="B6R11" sourcePath="${text}" target="blok56BTamabahan" targetPath="b6r11" updateStrategy="0" immediately="false"/>
+        <BindingProperty name="b6r12a" source="B6R12a" sourcePath="${text}" target="blok56BTamabahan" targetPath="b6r12a" updateStrategy="0" immediately="false"/>
+        <BindingProperty name="b6r12b" source="B6R12b" sourcePath="${text}" target="blok56BTamabahan" targetPath="b6r12b" updateStrategy="0" immediately="false"/>
+        <BindingProperty name="b6r13" source="B6R13" sourcePath="${text}" target="blok56BTamabahan" targetPath="b6r13" updateStrategy="0" immediately="false"/>
+        <BindingProperty name="b6r14" source="B6R14" sourcePath="${text}" target="blok56BTamabahan" targetPath="b6r14" updateStrategy="0" immediately="false"/>
+        <BindingProperty name="b6r15a" source="B6R15uang" sourcePath="${text}" target="blok56BTamabahan" targetPath="b6r15a" updateStrategy="0" immediately="false"/>
+        <BindingProperty name="b6r15b" source="B6R15barang" sourcePath="${text}" target="blok56BTamabahan" targetPath="b6r15b" updateStrategy="0" immediately="false"/>
+        <BindingProperty name="b6r16" source="B6R16" sourcePath="${text}" target="blok56BTamabahan" targetPath="b6r16" updateStrategy="0" immediately="false"/>
+        <BindingProperty name="b6r17" source="B6R17" sourcePath="${text}" target="blok56BTamabahan" targetPath="b6r17" updateStrategy="0" immediately="false"/>
+        <BindingProperty name="b6r17lain" source="B6R17lainnya" sourcePath="${text}" target="blok56BTamabahan" targetPath="b6r17lain" updateStrategy="0" immediately="false"/>
+        <BindingProperty name="b6r18" source="B6R18" sourcePath="${text}" target="blok56BTamabahan" targetPath="b6r18" updateStrategy="0" immediately="false"/>
+        <BindingProperty name="b6r19" source="B6R19" sourcePath="${text}" target="blok56BTamabahan" targetPath="b6r19" updateStrategy="0" immediately="false"/>
+        <BindingProperty name="b6r20a" source="B6R15uang" sourcePath="${text}" target="blok56BTamabahan" targetPath="b6r20a" updateStrategy="0" immediately="false"/>
+        <BindingProperty name="b6r20b" source="B6R15barang" sourcePath="${text}" target="blok56BTamabahan" targetPath="b6r20b" updateStrategy="0" immediately="false"/>
+        <BindingProperty name="b6r21a" source="B6R21a" sourcePath="${text}" target="blok56BTamabahan" targetPath="b6r21a" updateStrategy="0" immediately="false"/>
+        <BindingProperty name="b6r21b" source="B6R21b" sourcePath="${text}" target="blok56BTamabahan" targetPath="b6r21b" updateStrategy="0" immediately="false"/>
+        <BindingProperty name="b6r21c" source="B6R21c" sourcePath="${text}" target="blok56BTamabahan" targetPath="b6r21c" updateStrategy="0" immediately="false"/>
+        <BindingProperty name="b6r22a" source="B6R22a" sourcePath="${text}" target="blok56BTamabahan" targetPath="b6r22a" updateStrategy="0" immediately="false"/>
+        <BindingProperty name="b6r22b" source="B6R22b" sourcePath="${text}" target="blok56BTamabahan" targetPath="b6r22b" updateStrategy="0" immediately="false"/>
+        <BindingProperty name="b6r22blain" source="B6R22bLainnya" sourcePath="${text}" target="blok56BTamabahan" targetPath="b6r22blain" updateStrategy="0" immediately="false"/>
+      </BindingProperties>
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+    </Property>
+  </Properties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="blok671" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="blok671" alignment="1" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="pkl53.imageClass.BlokPekerja56B" name="blok671">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <EmptySpace min="0" pref="1070" max="32767" attributes="0"/>
+              <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+                  <Component id="jLayeredPane1" alignment="0" pref="1070" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <EmptySpace min="0" pref="1761" max="32767" attributes="0"/>
+              <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="jLayeredPane1" min="-2" pref="1742" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JLayeredPane" name="jLayeredPane1">
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+            <Property name="useNullLayout" type="boolean" value="false"/>
+          </Layout>
+          <SubComponents>
+            <Component class="pkl53.component.Textfield" name="B6R21b">
+              <Properties>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blok671"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B6R21c"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="960" y="440" width="35" height="27"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B6R22a">
+              <Properties>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blok671"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B6R22b"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="960" y="540" width="35" height="27"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B6R12b">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blok671"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B6R13"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="470" y="400" width="35" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B6R11">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blok671"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B6R12a"/>
+                </Property>
+                <Property name="textfieldKhusus" type="boolean" value="true"/>
+              </Properties>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="10"/>
+              </AuxValues>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="470" y="80" width="35" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B6R12a">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blok671"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B6R12b"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="470" y="180" width="35" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B6R15uang">
+              <Properties>
+                <Property name="length" type="int" value="9"/>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blok671"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B6R15barang"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="210" y="710" width="260" height="27"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B6R22b">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blok671"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B6R22bLainnya"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="960" y="640" width="35" height="27"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B6R13">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blok671"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B6R14"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="470" y="480" width="35" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B6R14">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blok671"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B6R15uang"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="470" y="570" width="35" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B6R16">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blok671"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B6R17"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="480" y="870" width="35" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B6R17lainnya">
+              <Properties>
+                <Property name="charType" type="char" value="2"/>
+                <Property name="length" type="int" value="30"/>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blok671"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B6R18"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="310" y="1020" width="210" height="25"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B6R19">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blok671"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B6R20uang"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="960" y="177" width="35" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B6R20uang">
+              <Properties>
+                <Property name="length" type="int" value="9"/>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blok671"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B6R20barang"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="710" y="290" width="270" height="27"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B6R18">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blok671"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B6R19"/>
+                </Property>
+                <Property name="textfieldKhusus" type="boolean" value="true"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="960" y="77" width="35" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B6R20barang">
+              <Properties>
+                <Property name="length" type="int" value="9"/>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blok671"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B6R21a"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="710" y="340" width="270" height="27"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B6R15barang">
+              <Properties>
+                <Property name="length" type="int" value="9"/>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blok671"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B6R16"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="210" y="760" width="260" height="27"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B6R17">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blok671"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B6R17lainnya"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="480" y="950" width="35" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B6R21c">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blok671"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B6R22a"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="960" y="470" width="35" height="27"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B6R21a">
+              <Properties>
+                <Property name="nextType" type="boolean" value="true"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blok671"/>
+                </Property>
+                <Property name="textfield" type="javax.swing.JTextField" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="B6R21b"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="960" y="410" width="35" height="27"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="pkl53.component.Textfield" name="B6R22bLainnya">
+              <Properties>
+                <Property name="charType" type="char" value="2"/>
+                <Property name="length" type="int" value="30"/>
+                <Property name="panel" type="javax.swing.JPanel" editor="org.netbeans.modules.form.ComponentChooserEditor">
+                  <ComponentRef name="blok671"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="745" y="670" width="250" height="27"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
