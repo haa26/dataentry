@@ -61,93 +61,19 @@ public class FormUtama extends usu.widget.Form {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
-        panelBackground = new pkl51.component.PanelGradient();
-        panelHeader = new pkl51.component.PanelTransparan();
-        panelBody = new pkl51.component.PanelTransparan();
-        panelTransparan = new pkl51.component.PanelTransparan();
-        panelLogin = new pkl51.view.PanelLogin();
-        panelHome = new pkl51.view.PanelHome();
-
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setAlwaysOnTop(true);
         setResizable(false);
-
-        panelBackground.setMaximumSize(new java.awt.Dimension(1366, 768));
-        panelBackground.setPreferredSize(new java.awt.Dimension(1024, 729));
-
-        panelHeader.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
-        panelHeader.setGambar(true);
-        panelHeader.setPreferredSize(new java.awt.Dimension(983, 103));
-
-        javax.swing.GroupLayout panelHeaderLayout = new javax.swing.GroupLayout(panelHeader);
-        panelHeader.setLayout(panelHeaderLayout);
-        panelHeaderLayout.setHorizontalGroup(
-            panelHeaderLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 997, Short.MAX_VALUE)
-        );
-        panelHeaderLayout.setVerticalGroup(
-            panelHeaderLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 99, Short.MAX_VALUE)
-        );
-
-        panelBody.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
-        panelBody.setPreferredSize(new java.awt.Dimension(983, 546));
-        panelBody.setLayout(new java.awt.CardLayout());
-
-        javax.swing.GroupLayout panelTransparanLayout = new javax.swing.GroupLayout(panelTransparan);
-        panelTransparan.setLayout(panelTransparanLayout);
-        panelTransparanLayout.setHorizontalGroup(
-            panelTransparanLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 995, Short.MAX_VALUE)
-            .addGroup(panelTransparanLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                .addGroup(panelTransparanLayout.createSequentialGroup()
-                    .addGap(0, 348, Short.MAX_VALUE)
-                    .addComponent(panelLogin, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addGap(0, 349, Short.MAX_VALUE)))
-        );
-        panelTransparanLayout.setVerticalGroup(
-            panelTransparanLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 585, Short.MAX_VALUE)
-            .addGroup(panelTransparanLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                .addGroup(panelTransparanLayout.createSequentialGroup()
-                    .addGap(0, 224, Short.MAX_VALUE)
-                    .addComponent(panelLogin, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addGap(0, 223, Short.MAX_VALUE)))
-        );
-
-        panelBody.add(panelTransparan, "cardLogin");
-        panelBody.add(panelHome, "cardHome");
-
-        javax.swing.GroupLayout panelBackgroundLayout = new javax.swing.GroupLayout(panelBackground);
-        panelBackground.setLayout(panelBackgroundLayout);
-        panelBackgroundLayout.setHorizontalGroup(
-            panelBackgroundLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(panelBackgroundLayout.createSequentialGroup()
-                .addContainerGap()
-                .addGroup(panelBackgroundLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addComponent(panelBody, javax.swing.GroupLayout.Alignment.LEADING, 0, 1001, Short.MAX_VALUE)
-                    .addComponent(panelHeader, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.DEFAULT_SIZE, 1001, Short.MAX_VALUE))
-                .addGap(11, 11, 11))
-        );
-        panelBackgroundLayout.setVerticalGroup(
-            panelBackgroundLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(panelBackgroundLayout.createSequentialGroup()
-                .addContainerGap()
-                .addComponent(panelHeader, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                .addComponent(panelBody, javax.swing.GroupLayout.DEFAULT_SIZE, 591, Short.MAX_VALUE)
-                .addContainerGap())
-        );
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(panelBackground, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+            .addGap(0, 1024, Short.MAX_VALUE)
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(panelBackground, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+            .addGap(0, 727, Short.MAX_VALUE)
         );
 
         pack();
@@ -190,11 +116,5 @@ public class FormUtama extends usu.widget.Form {
         });
     }
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private pkl51.component.PanelGradient panelBackground;
-    private pkl51.component.PanelTransparan panelBody;
-    private pkl51.component.PanelTransparan panelHeader;
-    private pkl51.view.PanelHome panelHome;
-    private pkl51.view.PanelLogin panelLogin;
-    private pkl51.component.PanelTransparan panelTransparan;
     // End of variables declaration//GEN-END:variables
 }

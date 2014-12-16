@@ -64,8 +64,7 @@ public class UserDao {
         } catch (PersistenceException e) {
             JOptionPane.showMessageDialog(null, e.getMessage());
         }
-       
-        return user;
+               return user;
     }
     
 }
